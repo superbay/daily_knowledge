@@ -5,7 +5,7 @@ pool.ntp.org
 
 
 
-How to fix Internet time sync
+How to fix Internet time sync time zone
 
 In the midst of an interesting (and honestly titled) list of Random Vista Thoughts, Chris Lanier says:
 
